@@ -86,7 +86,7 @@ tank = cvs.create_image(img_p, image = tank_img)
 win.update()
 
 while True:
-    # while 반복문을 0.01 sec 마다 실행f
+    # while 반복문을 0.01 sec 마다 실행
     time.sleep(0.01)
     cvs.delete(angle_line)
     cvs.delete(tank)
