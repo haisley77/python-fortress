@@ -1,0 +1,5 @@
+ID: user1     Time: 2023-01-07 21:16:47.126779     SCORE: 6
+ID: user2     Time: 2023-01-07 21:22:04.796354     SCORE: 6
+ID: user3     Time: 2023-01-07 21:23:28.852425     SCORE: 4
+ID: user4     Time: 2023-01-07 21:24:19.879155     SCORE: 6
+ID: hihi     Time: 2023-01-08 00:41:31.273395     SCORE: 6
